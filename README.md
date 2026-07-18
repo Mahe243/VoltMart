@@ -6,6 +6,11 @@ Changes made in the admin dashboard (stock, orders, coupons, banners, settings) 
 
 ---
 
+## 🌐 Live Demo
+
+**Try the live application here:**  
+https://voltmart.ai.studio/
+
 ## ✨ Features
 
 - **Customer Storefront** — browse 300+ seeded products across 16 categories, flash sales, trending/featured sections, cart, wishlist, coupons, and checkout.
