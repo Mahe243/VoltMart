@@ -1,0 +1,6 @@
+{
+  "name": "VoltMart",
+  "description": "A full-stack side-by-side e-commerce storefront and admin dashboard demo with live synchronization, a price-elasticity simulator, and an AI shop assistant chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
